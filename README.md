@@ -1,7 +1,6 @@
 ## Data-Analytics-with-Oasis-Infobyte-Sales-Analysis-Project-
 
 Common KPI Questions for Sales Analysis:
-Revenue-Related KPIs:
 ## Questions (KPIs)
 - What is the total revenue generated in a specific period?
 - What are the revenue trends (monthly, quarterly, annually)?
